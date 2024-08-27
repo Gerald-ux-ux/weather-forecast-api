@@ -5,7 +5,7 @@ import { CordsController } from './cords.controller';
 import { CordsService } from './cords.service';
 
 @Module({
-  imports: [HttpModule], // Import HttpModule here
+  imports: [HttpModule],
   controllers: [CordsController],
   providers: [CordsService],
 })

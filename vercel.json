@@ -1,6 +1,5 @@
 {
-  "buildCommand": "next build",
-  "version": 1,
+  "version": 2,
   "builds": [
     {
       "src": "src/main.ts",
